@@ -4,7 +4,7 @@ Welcome to the GitHub repository for Aakash Daswani's personal website! This web
 
 ## Website
 
-Check out the live website here: [Aakash Daswani - Personal Website](https://nmirpuri.github.io/Aakashs-Website/)
+Check out the live website here: [Aakash Daswani - Personal Website](https://aakashdaswani.github.io/AakashHub/)
 
 ## Overview
 
